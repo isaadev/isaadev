@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 ```
@@ -31,4 +31,3 @@ guest@isa:~$ whoami
 ![Swift](https://img.shields.io/badge/-Swift-0d1117?style=for-the-badge&logo=swift&logoColor=F05138)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Supabase](https://img.shields.io/badge/-Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-```
